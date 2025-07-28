@@ -1,4 +1,4 @@
-# Vamos-Joga-Minecraft-Bot
+# Vamos-Jogar-Minecraft-Bot
 Bot feito para ErikrafT
 
 ## 🧠 Funcionalidades Principais
