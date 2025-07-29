@@ -12,26 +12,26 @@ id_do_servidor = 1391101840682389524
 bot = commands.Bot(command_prefix="!", intents=intents)
 count = 30
 booster = [
-    "Hey! Já pensou em impulsionar nosso servidor? <#1275168897913589823>",
-    "Dá aquela força pro server! Impulsiona a gente em <#1275168897913589823>",
-    "Nosso servidor merece brilhar — que tal impulsionar? <#1275168897913589823>",
-    "Você + Boost = servidor lendário. Bora? <#1275168897913589823>",
-    "Tá de bobeira? Impulsiona o server e ganha vantagens! <#1275168897913589823>",
-    "Ajude o servidor a crescer com um boost seu! <#1275168897913589823>",
-    "Chegou a hora de impulsionar quem te diverte. Vai em <#1275168897913589823>",
-    "Um boost seu muda tudo. Mostra sua força em <#1275168897913589823>",
-    "O servidor precisa de heróis. Impulsiona lá: <#1275168897913589823>",
-    "Você já impulsionou hoje? Não? Corrige isso aqui: <#1275168897913589823>",
-    "Impulsionar o servidor não dói e ainda deixa ele lindo. <#1275168897913589823>",
-    "Dá aquele boost maroto pra gente continuar crescendo! <#1275168897913589823>",
-    "Sabe como melhorar tudo por aqui? Com um boost seu. <#1275168897913589823>",
-    "Se você curte aqui, retribui com um impulsinho! <#1275168897913589823>",
-    "Ajude o servidor a subir de nível. O caminho tá aqui: <#1275168897913589823>",
-    "Impulsionar é amar. Demonstre o seu: <#1275168897913589823>",
-    "Só os verdadeiros impulsionam. Você é um deles? <#1275168897913589823>",
-    "Mostra que você é raiz: impulsiona esse servidor agora! <#1275168897913589823>",
-    "Quer mais vantagens? Impulsiona e descobre: <#1275168897913589823>",
-    "É hora de mostrar apoio com estilo. Dá um boost: <#1275168897913589823>"
+    "<a:Boosts_pinning:1210685364184813598> Hey! Já pensou em impulsionar nosso servidor? <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Dá aquela força pro server! Impulsiona a gente em <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Nosso servidor merece brilhar — que tal impulsionar? <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Você + Boost = servidor lendário. Bora? <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Tá de bobeira? Impulsiona o server e ganha vantagens! <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Ajude o servidor a crescer com um boost seu! <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Chegou a hora de impulsionar quem te diverte. Vai em <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Um boost seu muda tudo. Mostra sua força em <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> O servidor precisa de heróis. Impulsiona lá: <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Você já impulsionou hoje? Não? Corrige isso aqui: <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Impulsionar o servidor não dói e ainda deixa ele lindo. <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Dá aquele boost maroto pra gente continuar crescendo! <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Sabe como melhorar tudo por aqui? Com um boost seu. <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Se você curte aqui, retribui com um impulsinho! <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Ajude o servidor a subir de nível. O caminho tá aqui: <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Impulsionar é amar. Demonstre o seu: <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Só os verdadeiros impulsionam. Você é um deles? <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Mostra que você é raiz: impulsiona esse servidor agora! <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> Quer mais vantagens? Impulsiona e descobre: <#1275168897913589823>",
+    "<a:Boosts_pinning:1210685364184813598> É hora de mostrar apoio com estilo. Dá um boost: <#1275168897913589823>"
 ]
 
 
