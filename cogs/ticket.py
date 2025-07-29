@@ -138,7 +138,7 @@ class Ticket(commands.Cog):
             icon_url=interaction.guild.icon.url if interaction.guild.icon else None
         )
 
-        embed.set_image(url="https://cdn.discordapp.com/banners/1219690515318964285/a_aa6b23cd3f3456ac127b1a0ae7d26c6f.gif?size=512")
+        embed.set_image(url="https://i.ibb.co/yFk7w0xX/9b617284-2865-4c57-877b-317716b46715.jpg")
 
         canal = self.bot.get_channel(CANAL_PAINEL_ID)
         if canal:
