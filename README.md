@@ -116,4 +116,3 @@ link_apelacao = "https://form.jotform.com/242088340178054"
 ```
 
 Link para o formulário de apelação, onde usuários punidos podem contestar a decisão.
-
